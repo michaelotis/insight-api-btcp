@@ -90,5 +90,12 @@
     "searchStrings": [
       "btcprivate.pro"
     ]
+  },
+  {
+    "poolName": "CoinBlockers",
+    "url": "https://btcp.coinblockers.com",
+    "searchStrings": [
+      "coinblockers.com - https://coinblockers.com"
+    ]
   }
 ]
