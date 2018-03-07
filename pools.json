@@ -69,5 +69,12 @@
       "luckpool.org http://luckpool.org",
       "luckpool.org by hellcatz"
     ]
+  },
+  {
+    "poolName": "Vicious Miner",
+    "url": "https://viciousminer.com",
+    "searchStrings": [
+      "Vicious Miner https://viciousminer.com"
+    ]
   }
 ]
