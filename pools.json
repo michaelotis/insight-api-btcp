@@ -104,5 +104,12 @@
     "searchStrings": [
       "coinblockers.com - https://coinblockers.com"
     ]
-  }
+  },
++  {
++    "poolName": "Vicious Miner",
++    "url": "https://viciousminer.com",
++    "searchStrings": [
++      "Vicious Miner https://viciousminer.com"
++    ]
+   }
 ]
