@@ -105,6 +105,13 @@
       "coinblockers.com - https://coinblockers.com"
     ]
   },
+  {
+    "poolName": "Get2Mine",
+    "url": "https://www.get2mine.com",
+    "searchStrings": [
+      "Get2Mine! https://www.get2mine.com"
+    ]
+  },
 +  {
 +    "poolName": "Vicious Miner",
 +    "url": "https://viciousminer.com",
