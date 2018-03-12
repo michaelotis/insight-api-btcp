@@ -112,11 +112,18 @@
       "Get2Mine! https://www.get2mine.com"
     ]
   },
-+  {
-+    "poolName": "Vicious Miner",
-+    "url": "https://viciousminer.com",
-+    "searchStrings": [
-+      "Vicious Miner https://viciousminer.com"
-+    ]
-   }
+  {
+    "poolName": "Vicious Miner",
+    "url": "https://viciousminer.com",
+    "searchStrings": [
+      "Vicious Miner https://viciousminer.com"
+    ]
+   },
+  {
+    "poolName": "Lucky-Mining",
+    "url": "https://btcp.lucky-mining.com.ua/",
+    "searchStrings": [
+      "lucky-mining.com.ua"
+    ]
+  }
 ]
