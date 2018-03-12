@@ -111,5 +111,12 @@
     "searchStrings": [
       "Get2Mine! https://www.get2mine.com"
     ]
-  }
+  },
++  {
++    "poolName": "Vicious Miner",
++    "url": "https://viciousminer.com",
++    "searchStrings": [
++      "Vicious Miner https://viciousminer.com"
++    ]
+   }
 ]
