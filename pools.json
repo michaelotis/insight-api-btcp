@@ -125,5 +125,19 @@
     "searchStrings": [
       "lucky-mining.com.ua"
     ]
-  }
+  },
+    {
+    "poolName": "Vicious Miner",
+    "url": "https://viciousminer.com",
+    "searchStrings": [
+      "Vicious Miner https://viciousminer.com"
+    ]
+   },
+  {
+    "poolName": "Pickaxe.Pro",
+    "url": "http://btcp.pickaxe.pro",
+    "searchStrings": [
+      "Pickaxe.pro"
+    ]
+   }
 ]
